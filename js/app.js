@@ -259,7 +259,7 @@ console.log("js loaded!");
         operatorSelected = false;
         document.getElementById('display').value = "0";
     });
-
+    
 
     // Operator listeners
     document.getElementById('+').addEventListener("click", function() {
